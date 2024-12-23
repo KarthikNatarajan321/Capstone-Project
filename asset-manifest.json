@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/.github.io/Capstone-Project/static/css/main.1f779dbf.css",
+    "main.js": "/.github.io/Capstone-Project/static/js/main.13b37e54.js",
+    "static/js/787.1fa52d8d.chunk.js": "/.github.io/Capstone-Project/static/js/787.1fa52d8d.chunk.js",
+    "static/media/restauranfood.jpg": "/.github.io/Capstone-Project/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/Logo .svg": "/.github.io/Capstone-Project/static/media/Logo .f72c913c48c5334f78f2c336ec36f22b.svg",
+    "index.html": "/.github.io/Capstone-Project/index.html",
+    "main.1f779dbf.css.map": "/.github.io/Capstone-Project/static/css/main.1f779dbf.css.map",
+    "main.13b37e54.js.map": "/.github.io/Capstone-Project/static/js/main.13b37e54.js.map",
+    "787.1fa52d8d.chunk.js.map": "/.github.io/Capstone-Project/static/js/787.1fa52d8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f779dbf.css",
+    "static/js/main.13b37e54.js"
+  ]
+}
