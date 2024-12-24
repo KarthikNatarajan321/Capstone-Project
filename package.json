@@ -1,5 +1,5 @@
 {
-  "homepage": "https://KarthikNatarajan321/.github.io/Capstone-Project",
+  "homepage": "http://KarthikNatarajan321.github.io/Capstone-Project",
   "name": "little-lemon-website",
   "version": "0.1.0",
   "private": true,
@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.2.0"
   }
 }
